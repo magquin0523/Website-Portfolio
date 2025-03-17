@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(220, 198, 202);
+    overflow-x: hidden;
+
+}
+h1{
+ 
+    
+    font-size: 40px;
+    position: relative;
+    left: 490px;
+    top: 15px;
+    
+}
+img{
+    max-width: 100%;
+    position: relative;
+    left: 600px;
+    top: 20px;
+    
+    height: 350px;
+
+    border-radius: 100px;
+    border-style:double;
+    border-width: 10px;
+    
+
+}
+
+p{
+    position: absolute;
+    top: 325px;
+    left: 0px;
+    right: 15px;
+   
+    font-size: 23px;
+    background-color: black;
+    color:bisque;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 200px;
+    padding: 20px;
+}
+
+button{
+    background-color: black;
+    color: bisque;
+    border-radius: 5px;
+    position: absolute;
+    top: 680px;
+    left: 715px;
+    height: 40px;
+}
